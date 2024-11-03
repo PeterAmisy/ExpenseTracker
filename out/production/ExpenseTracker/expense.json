@@ -1,0 +1,19 @@
+[
+  {"id":1,"category":"Shopping","amount":99.99,"description":"Zara","date":"2024-10-20"},
+  {"id":2,"category":"Transport","amount":15.00,"description":"Taxi","date":"2024-10-20"},
+  {"id":3,"category":"Grocery","amount":45.00,"description":"Carrefour","date":"2024-10-21"},
+  {"id":4,"category":"Transport","amount":15.00,"description":"Taxi","date":"2024-10-21"},
+  {"id":5,"category":"Shopping","amount":49.99,"description":"H&M","date":"2024-10-22"},
+  {"id":6,"category":"Grocery","amount":45.00,"description":"Carrefour","date":"2024-10-22"},
+  {"id":7,"category":"Transport","amount":15.00,"description":"Taxi","date":"2024-10-22"},
+  {"id":8,"category":"Shopping","amount":99.99,"description":"Zara","date":"2024-10-23"},
+  {"id":9,"category":"Transport","amount":15.00,"description":"Taxi","date":"2024-10-23"},
+  {"id":10,"category":"Grocery","amount":45.00,"description":"Carrefour","date":"2024-10-24"},
+  {"id":11,"category":"Transport","amount":15.00,"description":"Taxi","date":"2024-10-24"},
+  {"id":12,"category":"Shopping","amount":49.99,"description":"H&M","date":"2024-10-25"},
+  {"id":13,"category":"Grocery","amount":45.00,"description":"Carrefour","date":"2024-10-25"},
+  {"id":14,"category":"Transport","amount":15.00,"description":"Taxi","date":"2024-10-25"},
+  {"id":15,"category":"Shopping","amount":99.99,"description":"Zara","date":"2024-10-26"},
+  {"id":16,"category":"Transport","amount":15.00,"description":"Taxi","date":"2024-10-26"},
+  {"id":17,"category":"Grocery","amount":45.00,"description":"Carrefour","date":"2024-10-27"}
+]
